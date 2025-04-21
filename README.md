@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/591ee375-e46f-4773-843a-30f8e3b7e9ea)![image](https://github.com/user-attachments/assets/f53f13b4-baab-466c-9ba2-82478dab61ce)# Умовні вирази, if, when
+# Умовні вирази, if, when
 ## Перевірити, чи рік високосний
 ```
 fun checkLeapYear() {
