@@ -72,7 +72,7 @@ fun checkNumberInArray(){
 ![image](https://github.com/user-attachments/assets/3bc7c83e-5068-4919-ba22-957e0d5bcc65)
 ![image](https://github.com/user-attachments/assets/adadbb14-68a8-4b0a-96d1-179278a5970d)
 
-#Null safety
+# Null safety
 ### Написати функцію, яка повертає довжину рядка або 0, якщо null.
 ```
 fun checkStringLength(){
@@ -86,7 +86,7 @@ fun checkStringLength(){
 ![image](https://github.com/user-attachments/assets/50c7e70e-978b-4f25-8f0e-7c2032c5e9c2)
 ![image](https://github.com/user-attachments/assets/91a7dce1-fa2c-439c-a1d3-c0478bd26bb9)
 
-#Обробка винятків
+# Обробка винятків
 ## Написати функцію, яка приймає ціле число, кидає виняток, якщо воно не з діапазону 1–100.
 ```
 fun validateNumberInRange(){
